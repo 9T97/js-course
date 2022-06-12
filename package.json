@@ -1,0 +1,22 @@
+{
+  "name": "htmlcssjs",
+  "version": "0.1.0",
+  "description": "javascript",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/9T97/js-course.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "wintun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/9T97/js-course/issues"
+  },
+  "homepage": "https://github.com/9T97/js-course#readme"
+}
