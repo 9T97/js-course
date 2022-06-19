@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/9T97/js-course/issues"
   },
-  "homepage": "https://github.com/9T97/js-course#readme"
+  "homepage": "https://github.com/9T97/js-course#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.0-beta1"
+  }
 }
